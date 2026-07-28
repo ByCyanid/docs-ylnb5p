@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ux6vgv.hartawin.site/sitemap.xml
